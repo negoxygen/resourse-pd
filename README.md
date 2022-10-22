@@ -46,7 +46,11 @@ These two resources have everything you need to learn about open-source, with a 
 
 1. [You dont know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 2. [Promises & Async/Await by Lydia Hallies](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+
 ## Ruby
+1. [Ruby Monk](https://rubymonk.com/)
+2. [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+
 
 
 ## Node
