@@ -55,4 +55,7 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Node
 1. [Build a Node.js project from scratch](https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/)
-2. 
+
+
+## Elixir
+1. [Elixir Exercism](https://exercism.org/tracks/elixir)
