@@ -1,6 +1,6 @@
 # Resources PD
 
-> There are many resourse for learning new techs available in this big universe.
+> There are many resources for learning new techs available in this big universe.
 > Let us make this repo that universe. :D
 > Everyone is highly encouraged to partipate in this project regardless of you knowledge.
 
@@ -12,7 +12,7 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Rules
 
-- Do not Dublicate the resources and link. 
+- Do not Duplicate the resources and link. 
 - Please make sure the resources is linked with respected title.
 - That's it, have fun and make something unique and creative!
 
@@ -59,3 +59,12 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Elixir
 1. [Elixir Exercism](https://exercism.org/tracks/elixir)
+
+## Blockchain
+1. [Ethereum smart contract security checklist](https://ethereum.stackexchange.com/questions/8551/ethereum-smart-contract-security-checklist/8593#8593)
+
+## Product Mangement
+1. [How to write Product Requirement Document (PRD)](https://www.mustafanafees.com/how-to-write-a-product-requirement-document/)
+
+## Programming Books
+1. [Best programming books](https://www.best-books.dev/list/best-programming-books)
