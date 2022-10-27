@@ -59,3 +59,12 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Elixir
 1. [Elixir Exercism](https://exercism.org/tracks/elixir)
+
+## Blockchain
+1. [Ethereum smart contract security checklist](https://ethereum.stackexchange.com/questions/8551/ethereum-smart-contract-security-checklist/8593#8593)
+
+## Product Mangement
+1. [How to write Product Requirement Document (PRD)](https://www.mustafanafees.com/how-to-write-a-product-requirement-document/)
+
+## Programming Books
+1. [Best programming books](https://www.best-books.dev/list/best-programming-books)
