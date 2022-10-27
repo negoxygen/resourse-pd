@@ -1,6 +1,6 @@
 # Resources PD
 
-> There are many resourse for learning new techs available in this big universe.
+> There are many resources for learning new techs available in this big universe.
 > Let us make this repo that universe. :D
 > Everyone is highly encouraged to partipate in this project regardless of you knowledge.
 
@@ -12,7 +12,7 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Rules
 
-- Do not Dublicate the resources and link. 
+- Do not Duplicate the resources and link. 
 - Please make sure the resources is linked with respected title.
 - That's it, have fun and make something unique and creative!
 
