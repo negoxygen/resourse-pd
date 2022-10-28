@@ -68,3 +68,6 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Programming Books
 1. [Best programming books](https://www.best-books.dev/list/best-programming-books)
+
+## Practicing Data Structures
+1. [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
