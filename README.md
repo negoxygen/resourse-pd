@@ -72,3 +72,6 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Practicing Data Structures
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
+
+## System Design
+1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
