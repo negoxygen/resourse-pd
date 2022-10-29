@@ -71,3 +71,6 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Practicing Data Structures
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
+
+## Web Technologies
+1. [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
