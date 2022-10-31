@@ -74,7 +74,10 @@ These two resources have everything you need to learn about open-source, with a 
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
 
 ## Web Technologies
-1. [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+1. [Web Dev](https://web.dev/)
+
+2. [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+
 
 ## System Design
 1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
